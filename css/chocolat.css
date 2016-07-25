@@ -75,10 +75,10 @@ body{
 	padding:5px;
 	float:right;
 }
-#Choco_container_via a{
+#Choco_container_via #port_images{
 	color:gray;
 }
-#Choco_container_via a:hover{
+#Choco_container_via #port_images:hover{
 	color:white;
 	background:gray;
 }
