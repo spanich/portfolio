@@ -369,7 +369,7 @@ fieldset#body {
   margin-top: 10em;
 }
 .banner-info p {
-   font-size: 0.9em;
+   font-size: 1.3em;
   font-weight: 400;
   color: #fff;
   line-height: 2em;
@@ -2027,6 +2027,9 @@ h3.tittle.two {
    text-decoration:underline;
    cursor:pointer;
    }
+  .project_headline p{
+    text-decoration: underline;
+  }
 
 
 }
