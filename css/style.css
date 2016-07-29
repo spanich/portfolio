@@ -88,7 +88,7 @@ ul.side_nav li a:hover{
 }
 /*--slider--*/
 .top-menu {
-  float: left;
+  /*float: left;*/
   margin: 0.8% auto 0;
  width: 89%;
   text-align: center;
@@ -511,7 +511,7 @@ span.devide-line {
 .experience-right-snd {
 	width: 40%;
 	position: absolute;
-	left: 56.2%;
+	left: 60.2%;
 	text-align: left;
 }
 .experience-right-snd {
@@ -722,7 +722,10 @@ h3.tittle.port {
 /*-- //portfolio--*/
 /*--contact--*/
 .contact_desc{
-  padding:4em 0;
+  padding: 2em 0;
+}
+.contact-ad{
+  margin-top: 2em;
 }
 form.left_form {
   float: left;
